@@ -44,4 +44,6 @@
 
 ## 7. creating a tidy data set with the average of each variable for each activity and each subject
       FinalData (180 rows, 88 columns) is created by sumarizing TidyData taking the means of each variable for each activity and each subject, after groupped by subject and           activity.     
+      Export FinalData into finaldata.txt file.
+
 
